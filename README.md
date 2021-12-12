@@ -24,7 +24,7 @@ Clone this project and create a new Python virtual environment, activate it and 
 ```
 $ python -m venv /path/to/virtualenv/
 $ source /path/to/virtualenv/bin/activate
-$ cd /path/to/synonyms/
+$ cd /path/to/telescope/
 $ pip install -r requirements.txt
 ```
 
