@@ -1,0 +1,43 @@
+{
+"planet_list": [
+    {
+    "name"          : "mars",
+    "aphelie"       : 249.230e6,
+    "perihelie"     : 206.655e6,
+    "radius"        : 3389.5,
+    "ring_radius"   : 0,
+    "albedo"        : 0.250,
+    "color"         : [1, 0, 0]
+    },
+    {
+    "name"          : "jupiter",
+    "aphelie"       : 816.000e6,
+    "perihelie"     : 740.680e6,
+    "radius"        : 69911,
+    "ring_radius"   : 0,
+    "albedo"        : 0.503,
+    "color"         : [1, 0, 0]
+    },
+    {
+    "name"          : "saturne",
+    "aphelie"       : 1503.500e6,
+    "perihelie"     : 1349.800e6,
+    "radius"        : 58232,
+    "ring_radius"   : 136775,
+    "albedo"        : 0.342,
+    "color"         : [1, 0, 0]
+    } 
+],
+"satellite_list":[
+    {
+    "name"          : "lune",
+    "apogee"        : 406300,
+    "perigee"       : 356700,
+    "radius"        : 1737.4,
+    "ring_radius"   : 0,
+    "albedo"        : 0.110,
+    "color"         : [0.5, 0.5, 0.5]
+    }
+
+]
+}
